@@ -1,0 +1,14 @@
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\bin\Debug\net8.0\prisera_v_bludisti.exe
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\bin\Debug\net8.0\prisera_v_bludisti.deps.json
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\bin\Debug\net8.0\prisera_v_bludisti.runtimeconfig.json
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\bin\Debug\net8.0\prisera_v_bludisti.dll
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\bin\Debug\net8.0\prisera_v_bludisti.pdb
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.GeneratedMSBuildEditorConfig.editorconfig
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.AssemblyInfoInputs.cache
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.AssemblyInfo.cs
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.csproj.CoreCompileInputs.cache
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.dll
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\refint\prisera_v_bludisti.dll
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.pdb
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\prisera_v_bludisti.genruntimeconfig.cache
+O:\2026 Programovaci Seminar\prisera_v_bludisti\prisera_v_bludisti\obj\Debug\net8.0\ref\prisera_v_bludisti.dll

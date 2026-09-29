@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21F55E1-8F2D-4B6A-BE01-BC585AAB2C76}|prisera_v_bludisti\\prisera_v_bludisti.csproj|o:\\2026 programovaci seminar\\prisera_v_bludisti\\prisera_v_bludisti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21F55E1-8F2D-4B6A-BE01-BC585AAB2C76}|prisera_v_bludisti\\prisera_v_bludisti.csproj|solutionrelative:prisera_v_bludisti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
+              "RelativeDocumentMoniker": "prisera_v_bludisti\\Program.cs",
+              "ToolTip": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
+              "RelativeToolTip": "prisera_v_bludisti\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwH0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:33:43.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
