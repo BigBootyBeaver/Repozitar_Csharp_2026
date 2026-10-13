@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prisera_v_bludisti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0358d3836939143ec656f21faf9bfb1d49979afb")]
 [assembly: System.Reflection.AssemblyProductAttribute("prisera_v_bludisti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prisera_v_bludisti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

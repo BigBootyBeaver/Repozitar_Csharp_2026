@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\prisera_v_bludisti.csproj",
+      "projectUniqueName": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\prisera_v_bludisti.csproj",
       "projectName": "prisera_v_bludisti",
-      "projectPath": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\prisera_v_bludisti.csproj",
+      "projectPath": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\prisera_v_bludisti.csproj",
       "packagesPath": "C:\\Users\\opatrnyt\\.nuget\\packages\\",
-      "outputPath": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\obj\\",
+      "outputPath": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

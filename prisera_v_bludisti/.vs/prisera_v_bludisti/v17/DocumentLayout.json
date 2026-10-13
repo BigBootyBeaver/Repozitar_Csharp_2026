@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\",
+  "WorkspaceRootPath": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21F55E1-8F2D-4B6A-BE01-BC585AAB2C76}|prisera_v_bludisti\\prisera_v_bludisti.csproj|o:\\2026 programovaci seminar\\prisera_v_bludisti\\prisera_v_bludisti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D21F55E1-8F2D-4B6A-BE01-BC585AAB2C76}|prisera_v_bludisti\\prisera_v_bludisti.csproj|o:\\2026 programovaci seminar\\repozitar_2026\\repozitar_csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D21F55E1-8F2D-4B6A-BE01-BC585AAB2C76}|prisera_v_bludisti\\prisera_v_bludisti.csproj|solutionrelative:prisera_v_bludisti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
+              "DocumentMoniker": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
               "RelativeDocumentMoniker": "prisera_v_bludisti\\Program.cs",
-              "ToolTip": "O:\\2026 Programovaci Seminar\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
+              "ToolTip": "O:\\2026 Programovaci Seminar\\repozitar_2026\\Repozitar_Csharp_2026\\prisera_v_bludisti\\prisera_v_bludisti\\Program.cs",
               "RelativeToolTip": "prisera_v_bludisti\\Program.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwH0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwH0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T13:33:43.281Z",
               "EditorCaption": ""
