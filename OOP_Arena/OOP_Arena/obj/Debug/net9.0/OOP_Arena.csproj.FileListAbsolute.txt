@@ -1,0 +1,28 @@
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.exe
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.deps.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\refint\OOP_Arena.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.genruntimeconfig.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\OOP_Arena\OOP_Arena\obj\Debug\net9.0\ref\OOP_Arena.dll
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.exe
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.deps.json
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.runtimeconfig.json
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.dll
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\bin\Debug\net9.0\OOP_Arena.pdb
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.GeneratedMSBuildEditorConfig.editorconfig
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.AssemblyInfoInputs.cache
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.AssemblyInfo.cs
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.csproj.CoreCompileInputs.cache
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.dll
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\refint\OOP_Arena.dll
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.pdb
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\OOP_Arena.genruntimeconfig.cache
+O:\2026 Programovaci Seminar\OOP_Arena\OOP_Arena\OOP_Arena\obj\Debug\net9.0\ref\OOP_Arena.dll
